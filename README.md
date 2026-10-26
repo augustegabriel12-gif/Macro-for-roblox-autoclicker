@@ -60,3 +60,6 @@ The repository includes the Python source, dependency list, license, ignore rule
 - Avoid infinite repeats unless you can stop the app reliably.
 - Synthetic input may not be accepted by every game or anti-cheat/input system.
 - This project is an independent community tool and is not affiliated with or endorsed by Roblox.
+
+
+EXTRA: This file is very weird (I know its my first time making a git so...) requierment and everything else is in the second ZIP
